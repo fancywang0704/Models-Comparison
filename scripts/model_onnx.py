@@ -2,7 +2,7 @@ import torch
 import torchvision
 import onnx
 
-batch_size =1 #2
+batch_size =1 #1，2
 
 device = "cuda" #if torch.cuda.is_available() else "cpu"
 print("Using {} device".format(device))
