@@ -23,7 +23,7 @@ from torch.autograd import Variable
 
 batch_size = 1 #1,2,4,8,16,32,64
 
-# ----- 图像数据变化
+# ----- Image data changes
 transform_train = transforms.Compose([
     #transforms.RandomHorizontalFilp(),
     transforms.RandomCrop(32),
@@ -51,7 +51,7 @@ test_dataloader = torch.utils.data.DataLoader(test_dataset, batch_size=batch_siz
 device = "cuda" if torch.cuda.is_available() else "cpu"
 print("Using {} device".format(device))
 
-# ----- 定义神经网络模型，这里用AlexNet网络模型
+# ----- AlexNet
 class AlexNet(nn.Module):
     def __init__(self):
         super(AlexNet, self).__init__()
@@ -104,7 +104,7 @@ loss_fn = nn.CrossEntropyLoss()
 optimizer = torch.optim.SGD(model.parameters(), lr=0.001, momentum=0.9, weight_decay=4e-5)
 
 
-# ----- 建立训练模型
+# ----- Train
 def train(dataloader, model, loss_fn, optimizer):
     size = len(dataloader.dataset)
     for batch, (X, y) in enumerate(dataloader):
@@ -127,7 +127,7 @@ def train(dataloader, model, loss_fn, optimizer):
             correct /= len(X)
             print(f"loss: {loss:>7f}  [{current:>5d}/{size:>5d}], Accuracy: {(100*correct):>0.1f}% ")
     
-# ----- 建立测试模型
+# ----- Test
 def evaluteTop1(dataloader, model):
     size = len(dataloader.dataset)
     model.eval()
@@ -158,23 +158,23 @@ def evaluteTop5(dataloader, model):
     print(f"Top5 Error: \n Accuracy: {(100*correct):>0.1f}% \n")
 
 
-# ----- 训练和测试模型在图像分类中的效果
-epochs = 100 #迭代100次
+# ----- Epochs
+epochs = 100 
 for t in range(epochs):
     print(f"Epoch {t+1}\n-------------------------------")
     #train(train_dataloader, model, loss_fn, optimizer)
-    startTime = timeit.default_timer() #记录程序运行起始时间
+    startTime = timeit.default_timer() 
     evaluteTop1(test_dataloader, model)
     evaluteTop5(test_dataloader, model)
     Gpus = GPUtil.getGPUs()
     for gpu in Gpus:
         print('GPU总量',gpu.memoryTotal)
         print('GPU使用量',gpu.memoryUsed)
-    stopTime = timeit.default_timer() #记录停止时间
+    stopTime = timeit.default_timer() 
     print('Running time: %5.1fs.'%(stopTime - startTime))
 print("Done!")
 
-#保存模型的预训练权重参数
+# Save
 torch.save(model.state_dict(), "alexnet.pth")
 print("Saved PyTorch Model State to alexnet.pth")
 
