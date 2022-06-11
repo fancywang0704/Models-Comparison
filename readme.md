@@ -1,15 +1,15 @@
 ﻿# Evaluating and predicting computing performance of deep neural network models with different backbones on cross-modal computing platforms and inference frameworks
 ## Dependencies:
 
- - Python3.6
- - PyTorch
- - Torchvision
+ - Python 3.8
+ - PyTorch 1.9.0
+ - Torchvision 0.10.0
  - OpenVINO
- - Ubuntu18.04
+ - Ubuntu 18.04
  - Google Colab
  - Intel NCS2
- - SPSS
  - OriginLab
+ - SPSS
 
 ## Introduction
 
