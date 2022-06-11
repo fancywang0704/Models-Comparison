@@ -2,14 +2,14 @@
 ## Dependencies:
 
  - Python 3.8
- - PyTorch 1.9.0
- - Torchvision 0.10.0
- - OpenVINO
+ - [PyTorch](https://pytorch.org/) 1.9.0
+ - [Torchvision](https://pypi.org/project/torchvision/) 0.10.0
+ - [OpenVINO](https://docs.openvino.ai/)
  - Ubuntu 18.04
- - Google Colab
+ - [Google Colab](https://colab.research.google.com/)
  - Intel NCS2
- - OriginLab
- - SPSS
+ - [OriginLab](https://www.originlab.com/)
+ - [SPSS](https://www.ibm.com/products/spss-statistics)
 
 ## Introduction
 
