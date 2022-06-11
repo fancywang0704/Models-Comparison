@@ -17,8 +17,8 @@ We tested nearly 30 typical DNN models and estimated the performance metrics suc
 
 ## Top-N Accuracy vs. Computational Complexity vs. Model Complexity
 There were the top-1 and top-5 accuracy of each DNN using image preprocessing versus floating-point operations required for a single forward pass.The size of each ball corresponded to the model complexity. Different colored balls indicated different models.
-![图片](https://user-images.githubusercontent.com/101705236/173182174-766a891f-9170-491f-9783-a96ec46a242f.png)
-![图片](https://user-images.githubusercontent.com/101705236/173182189-9dc69ee7-f115-49c9-adcf-1a081891fdca.png)
+![图片](https://user-images.githubusercontent.com/101705236/173185572-eeca4cd0-e525-4bae-8382-c9bac81b5956.png)
+![图片](https://user-images.githubusercontent.com/101705236/173185583-3fdec737-b3c6-44d4-8db8-e2e2a3248847.png)
 
 ## Top-1 Accuracy vs. Model Efficiency
  It represented the top-1 accuracy density of each DNN model, which was utilized to measure the parameter utilization efficiency of the model. Error bar was used to describe the error range of the top-1 accuracy density.
