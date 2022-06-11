@@ -22,7 +22,8 @@ There were the top-1 and top-5 accuracy of each DNN using image preprocessing ve
 
 ## Top-1 Accuracy vs. Model Efficiency
  It represented the top-1 accuracy density of each DNN model, which was utilized to measure the parameter utilization efficiency of the model. Error bar was used to describe the error range of the top-1 accuracy density.
-![图片](https://user-images.githubusercontent.com/101705236/173182221-39892596-0c4f-45f4-9106-294644b8f93a.png)
+![图片](https://user-images.githubusercontent.com/101705236/173182662-37dec8a7-2cf2-4688-aca0-edcea0dd2f0c.png)
+
 
 ## Inference Time
 It recorded the average inference time(in milliseconds) of dozens of DNN models for dealing with a single image after 10 stable runs on the Google Colab cloud computing platform with different batch sizes.
