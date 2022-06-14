@@ -34,7 +34,7 @@ A combination method of cluster analysis and regression analysis from a quantita
 ![图片](https://user-images.githubusercontent.com/101705236/173182345-7e4e475b-7922-422b-850b-36cafb435ce2.png)
 
 ## Top-1 Accuracy vs. Inference Time
-It showed the Top-1 accuracy versus the number of images processed per second (with batch size 1) on the Google Colab computing platform. For a scatter plot of the relationship between Top-1 accuracy and FPS in Intel NCS2, please see the paper.
+It showed the top-1 accuracy versus the number of images processed per second (with batch size 1) on the Google Colab computing platform. For a scatter plot of the relationship between top-1 accuracy and FPS in Intel NCS2, please see the paper.
 ![图片](https://user-images.githubusercontent.com/101705236/173182463-02d6c3bf-392e-462e-b01c-32992aae2af7.png)
 
 ## Memory Usage vs. Model Complexity
