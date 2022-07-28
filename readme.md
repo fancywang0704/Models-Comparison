@@ -28,12 +28,15 @@
   [![](https://img.shields.io/badge/originlab-2021-brightgreen)](https://www.originlab.com/)
   [![](https://img.shields.io/badge/spss-25-brightgreen)](https://www.ibm.com/products/spss-statistics)
 
-[🛠️Installation](#Dependencies) |
-[📘Documentation](https://mmdetection.readthedocs.io/en/stable/) |
-[👀Model Zoo](https://mmdetection.readthedocs.io/en/stable/model_zoo.html) |
-[🆕Update News](https://mmdetection.readthedocs.io/en/stable/changelog.html) |
-[🚀Ongoing Projects](https://github.com/open-mmlab/mmdetection/projects) |
-[🤔Reporting Issues](https://github.com/open-mmlab/mmdetection/issues/new/choose)
+  [🛠️Installation Dependencies](#Dependencies) |
+  [📘Introduction](#Introduction) |
+  [👀Accuracy vs. Complexity](#Top-N Accuracy vs. Computational Complexity vs. Model Complexity) |
+ 
+  [🆕Top-1 Accuracy vs. Model Efficiency] |
+ 
+  [🚀Inference Time] |
+
+  [🤔Top-1 Accuracy vs. Inference Time]
 
   
   English | [简体中文](README_zh-CN.md)
