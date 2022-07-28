@@ -29,11 +29,11 @@
   [![](https://img.shields.io/badge/spss-25-brightgreen)](https://www.ibm.com/products/spss-statistics)
 
   [🛠️Installation Dependencies](#Dependencies) |
-  [📘Introduction](#Introduction) |
+  [🎤Introduction](#Introduction) |
  
   [👀Top-N Accuracy vs. Computational Complexity vs. Model Complexity](https://github.com/fancywang0704/Models-Comparison) |
   
-  [🆕Top-1 Accuracy vs. Model Efficiency](https://github.com/fancywang0704/Models-Comparison) |
+  [🌊Top-1 Accuracy vs. Model Efficiency](https://github.com/fancywang0704/Models-Comparison) |
   [🚀Inference Time](https://github.com/fancywang0704/Models-Comparison) |
   
   [🤔Top-1 Accuracy vs. Inference Time](https://github.com/fancywang0704/Models-Comparison) |
@@ -74,7 +74,11 @@ There were the top-1 and top-5 accuracy of each DNN using image preprocessing ve
 ## Inference Time
 It recorded the average inference time(in milliseconds) of dozens of DNN models for dealing with a single image after 10 stable runs on the Google Colab cloud computing platform with different batch sizes.
 
-![图片](https://user-images.githubusercontent.com/101705236/173182290-15ea961b-79fe-41e8-a944-2487c13ca6f1.png)
+<div align="center">
+
+  ![图片](https://user-images.githubusercontent.com/101705236/173182290-15ea961b-79fe-41e8-a944-2487c13ca6f1.png)
+
+</div>
 
 A combination method of cluster analysis and regression analysis from a quantitative perspective was designed to specifically analyze how the inference time varies with batch size in the above Table shown in Figure below.
 ![图片](https://user-images.githubusercontent.com/101705236/173182345-7e4e475b-7922-422b-850b-36cafb435ce2.png)
