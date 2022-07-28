@@ -5,6 +5,41 @@
 </div>
 
 # Evaluating and predicting computing performance of deep neural network models with different backbones on cross-modal computing platforms and inference frameworks
+<div align="center">
+
+<b><font size="100">Google Colab</font></b>
+    <sup>
+      <a href="https://colab.research.google.com/">
+        <i><font size="4">HOT</font></i>
+      </a>
+    </sup>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <b><font size="100">Intel NCS2</font></b>
+    <sup>
+      <a href="https://www.intel.com">
+        <i><font size="4">TRY IT OUT</font></i>
+      </a>
+    </sup>
+
+  ![](https://img.shields.io/badge/python-3.8-blue)
+  [![](https://img.shields.io/badge/pytorch-1.9.0-blue)](https://pytorch.org/)
+  [![](https://img.shields.io/badge/torchvision-0.10.0-orange)](https://pypi.org/project/torchvision/)
+  ![](https://img.shields.io/badge/ubuntu-18.04-orange)
+  [![](https://img.shields.io/badge/originlab-2021-brightgreen)](https://www.originlab.com/)
+  [![](https://img.shields.io/badge/spss-25-brightgreen)](https://www.ibm.com/products/spss-statistics)
+
+[🛠️Installation](https://github.com/) |
+[📘Documentation](https://mmdetection.readthedocs.io/en/stable/) |
+[👀Model Zoo](https://mmdetection.readthedocs.io/en/stable/model_zoo.html) |
+[🆕Update News](https://mmdetection.readthedocs.io/en/stable/changelog.html) |
+[🚀Ongoing Projects](https://github.com/open-mmlab/mmdetection/projects) |
+[🤔Reporting Issues](https://github.com/open-mmlab/mmdetection/issues/new/choose)
+
+  
+  English | [简体中文](README_zh-CN.md)
+  
+  
+ </div>
 
 ## Dependencies:
 
