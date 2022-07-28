@@ -5,16 +5,17 @@
 </div>
 
 # Evaluating and predicting computing performance of deep neural network models with different backbones on cross-modal computing platforms and inference frameworks
+
 <div align="center">
 
-<b><font size="100">Google Colab</font></b>
+<b><font size="5">Google Colab</font></b>
     <sup>
       <a href="https://colab.research.google.com/">
         <i><font size="4">HOT</font></i>
       </a>
     </sup>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <b><font size="100">Intel NCS2</font></b>
+    <b><font size="5">Intel NCS2</font></b>
     <sup>
       <a href="https://www.intel.com">
         <i><font size="4">TRY IT OUT</font></i>
