@@ -1,4 +1,11 @@
+<div align="center">
+ 
+  ![image](https://user-images.githubusercontent.com/101705236/181425227-d0594cb6-81be-489f-84d0-04b190bb742e.png)
+
+</div>
+
 # Evaluating and predicting computing performance of deep neural network models with different backbones on cross-modal computing platforms and inference frameworks
+
 ## Dependencies:
 
  - Python 3.8
