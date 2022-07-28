@@ -31,13 +31,14 @@
   [🛠️Installation Dependencies](#Dependencies) |
   [📘Introduction](#Introduction) |
  
-  👀Top-N Accuracy vs. Computational Complexity vs. Model Complexity |
+  [👀Top-N Accuracy vs. Computational Complexity vs. Model Complexity](#Top-N) |
   
-  🆕Top-1 Accuracy vs. Model Efficiency |
-  🚀Inference Time |
+  🆕Top-1 Accuracy vs. Model Efficiency] |
+  [🚀Inference Time](#Inference) |
   
-  🤔Top-1 Accuracy vs. Inference Time
-
+  🤔Top-1 Accuracy vs. Inference Time |
+ 
+  [🔥Memory Usage vs. Model Complexity](#Memory)
   
   English | [简体中文](README_zh-CN.md)
   
