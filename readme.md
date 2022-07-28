@@ -28,7 +28,7 @@
   [![](https://img.shields.io/badge/originlab-2021-brightgreen)](https://www.originlab.com/)
   [![](https://img.shields.io/badge/spss-25-brightgreen)](https://www.ibm.com/products/spss-statistics)
 
-[🛠️Installation](##Dependencies) |
+[🛠️Installation](#Dependencies) |
 [📘Documentation](https://mmdetection.readthedocs.io/en/stable/) |
 [👀Model Zoo](https://mmdetection.readthedocs.io/en/stable/model_zoo.html) |
 [🆕Update News](https://mmdetection.readthedocs.io/en/stable/changelog.html) |
