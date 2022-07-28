@@ -1,4 +1,4 @@
-﻿# Evaluating and predicting computing performance of deep neural network models with different backbones on cross-modal computing platforms and inference frameworks
+# Evaluating and predicting computing performance of deep neural network models with different backbones on cross-modal computing platforms and inference frameworks
 ## Dependencies:
 
  - Python 3.8
