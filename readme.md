@@ -31,14 +31,14 @@
   [🛠️Installation Dependencies](#Dependencies) |
   [📘Introduction](#Introduction) |
  
-  [👀Top-N Accuracy vs. Computational Complexity vs. Model Complexity](#Top-N) |
+  [👀Top-N Accuracy vs. Computational Complexity vs. Model Complexity](https://github.com/fancywang0704/Models-Comparison) |
   
-  🆕Top-1 Accuracy vs. Model Efficiency] |
-  [🚀Inference Time](#Inference) |
+  [🆕Top-1 Accuracy vs. Model Efficiency](https://github.com/fancywang0704/Models-Comparison) |
+  [🚀Inference Time](https://github.com/fancywang0704/Models-Comparison) |
   
-  🤔Top-1 Accuracy vs. Inference Time |
+  [🤔Top-1 Accuracy vs. Inference Time](https://github.com/fancywang0704/Models-Comparison) |
  
-  [🔥Memory Usage vs. Model Complexity](#Memory)
+  [🔥Memory Usage vs. Model Complexity](https://github.com/fancywang0704/Models-Comparison)
   
   English | [简体中文](README_zh-CN.md)
   
