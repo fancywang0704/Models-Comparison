@@ -40,7 +40,6 @@
  
   [🔥Memory Usage vs. Model Complexity](https://github.com/fancywang0704/Models-Comparison)
   
-  English | [简体中文](README_zh-CN.md)
   
 </div>
 
