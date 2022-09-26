@@ -90,3 +90,7 @@ It showed the top-1 accuracy versus the number of images processed per second (w
 It displayed the relationship between the total memory utilization and the model parameters (i.e. the model complexity) for different DNN models on Colab platform (with batch size 1 ). The straight lines indicated that the more parameters the model has, the more memory it utilizes.
 ![图片](https://user-images.githubusercontent.com/101705236/173182488-4d212d55-03ef-4b10-88f4-e86de6c0bc16.png)
 
+
+## Citation
+If you use our code, please consider cite the following:
+- X. Wang, F. Zhao, P. Lin, and Y. Chen, "Evaluating computing performance of deep neural network models with different backbones on IoT-based edge and cloud platforms," Internet of Things, vol. 20, p. 100609, 2022/11/01/ 2022.
