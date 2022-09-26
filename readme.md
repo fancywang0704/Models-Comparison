@@ -94,3 +94,16 @@ It displayed the relationship between the total memory utilization and the model
 ## Citation
 If you use our code, please consider cite the following:
 - X. Wang, F. Zhao, P. Lin, and Y. Chen, "Evaluating computing performance of deep neural network models with different backbones on IoT-based edge and cloud platforms," Internet of Things, vol. 20, p. 100609, 2022/11/01/ 2022.
+
+      
+@article{WANG2022100609,
+author = {Xiaoxuan Wang and Feiyu Zhao and Ping Lin and Yongming Chen},
+title = {Evaluating computing performance of deep neural network models with different backbones on IoT-based edge and cloud platforms},
+journal = {Internet of Things},
+volume = {20},
+pages = {100609},
+year = {2022},
+issn = {2542-6605},
+doi = {https://doi.org/10.1016/j.iot.2022.100609},
+}
+     
